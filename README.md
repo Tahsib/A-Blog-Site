@@ -8,6 +8,6 @@ python manage.py runserver
 ```
 
 ## Built with
-*Python 3
-*Django 2.2.1
+* Python 3
+* Django 2.2.1
 
